@@ -1,7 +1,7 @@
 # SideNote
 Hi guys, this is just a notePad for the IT group, specially for the interns to know what of knowledge that 
 they may want to look forward to. And here is the following.
-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------
 web that need to check out: 
 	godaddy.com 
 	w3schools.com
