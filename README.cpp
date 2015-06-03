@@ -19,6 +19,8 @@ tools that need to be view:
 	server(2008 window)
 	cisco call manager(void)
 	Sql Azure
+	cliping magic (PS)
+	photo shops
 
 knowledge of:
 	active directory
